@@ -9,3 +9,5 @@ git add .
 git commit -m"massege"
 
 git push -u origin master
+
+git pull
