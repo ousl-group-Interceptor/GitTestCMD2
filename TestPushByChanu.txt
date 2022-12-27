@@ -1,0 +1,11 @@
+2022.12.27  10.00AM
+
+git remote add origin https://github.com/ousl-group-Interceptor/GitTestCMD2.git
+
+git status
+
+git add .
+
+git commit -m"massege"
+
+git push -u origin master
